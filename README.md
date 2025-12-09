@@ -10,9 +10,7 @@ de uma fintech:
 -   ✔ **Depositar**
 -   ✔ **Sacar**
 
-O objetivo do projeto é servir como **portfólio profissional**, **estudo
-prático de .NET MVC** e uma excelente introdução ao desenvolvimento
-backend usando C#.
+O objetivo do projeto é praticar .NET MVC usando C#.
 
 Ele demonstra: - Organização em **Controllers, Models, Views e
 Services** - Roteamento MVC - Layout moderno com **Tailwind CSS via
@@ -110,24 +108,6 @@ Valida saldo insuficiente.
 
 ### ✔ Dados em memória
 
-Simples e ideal para aprendizado.
-
-------------------------------------------------------------------------
-
-# ❌ Erros comuns resolvidos
-
-### 1) 404 ao iniciar
-
-Corrigido via rota padrão:
-
-``` csharp
-pattern: "{controller=Conta}/{action=Index}/{id?}"
-```
-
-### 2) Error.cshtml ausente
-
-Removido da pipeline --- não é necessário.
-
 ------------------------------------------------------------------------
 
 # 🧩 Tecnologias utilizadas
@@ -140,14 +120,7 @@ Removido da pipeline --- não é necessário.
 
 ------------------------------------------------------------------------
 
-# ⭐ Próximos passos sugeridos
-
--   EF Core + SQLite\
--   Histórico de transações\
--   API REST Minimal API\
--   Dashboard com gráficos\
--   Login/autenticação
+# ⭐ Autor
+Aguinaldo Borges
 
 ------------------------------------------------------------------------
-
-Desenvolvido por Aguinaldo Borges.
