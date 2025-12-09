@@ -3,6 +3,7 @@
 O **CsharpDotNetBank** é um projeto simples e didático desenvolvido em
 **C# com ASP.NET Core MVC (.NET 10)**, simulando as operações essenciais
 de uma fintech:
+
 ![CsharpDotNetBank Screenshot](./projeto.png)
 
 -   ✔ **Ver saldo**
